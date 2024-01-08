@@ -1,4 +1,5 @@
 ## TODO APP with Turbo-rails
+<hr />
 
 Developed with aid from this article: https://www.colby.so/posts/turbo-rails-101-todo-list
 
