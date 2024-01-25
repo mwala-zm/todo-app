@@ -19,7 +19,13 @@ git clone https://github.com/mwala-zm/todo-app.git
 bundle install
 ```
 
-3. Start The Server
+3. Run Migrations
+
+```sh
+rails db:migrate
+```
+
+4. Start The Server
 
 ```sh
 rails server
